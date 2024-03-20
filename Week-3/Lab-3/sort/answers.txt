@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The upper bound and lower bound of selection sort and merge sort are in the same order in both selection sort and merge sort. According to the example that I tried, the real time for sorted list is shorter than the reversed list, which indicates that the only possible is bubble sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: The step that merge sort takes is in order of O(n logn) while selection sort is O(n^2). As I tried to use the remaining sort2 and sort3 in selected list, sort2 is better than sort3.
+
+sort3 uses: Selection Sort
+
+How do you know?: This is the remain choice.
